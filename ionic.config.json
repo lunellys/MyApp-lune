@@ -1,0 +1,7 @@
+{
+  "name": "MyApp-lune",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
